@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferencesAppDemo</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="enter_your_username">ENTER YOUR USERNAME</string>
+    <string name="username">UserName</string>
+    <string name="previous">Previous</string>
+    <string name="load">Load</string>
+</resources>
